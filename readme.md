@@ -6,6 +6,10 @@ Bem-vindo ao meu portfólio de projetos Python! Aqui, você encontrará demonstr
 
 Meu nome é Elias Andrade, um entusiasta da tecnologia e desenvolvedor Python. Minha paixão pela programação e resolução de problemas me impulsiona a criar projetos que não apenas funcionam, mas também trazem eficiência e valor.
 
+![Nunca termine, sempre evolua](https://raw.githubusercontent.com/chaos4455/Python-2023/main/img1.jpeg)
+
+Não há conhecimento que não seja poder.
+
 ## 🎯 Objetivos
 
 Meu principal objetivo é aplicar minha experiência em Python para desenvolver soluções práticas, eficientes e inovadoras. Estou sempre buscando oportunidades de aprendizado e colaboração em projetos desafiadores.
