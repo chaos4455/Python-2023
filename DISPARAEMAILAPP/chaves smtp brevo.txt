@@ -1,0 +1,24 @@
+Suas configurações SMTP
+Servidor SMTP
+smtp-relay.brevo.com
+Porta
+587
+Conectar
+
+
+
+LOGIN
+senha
+
+LOGIN
+senha
+
+
+LOGIN
+senha
+
+--
+
+
+
+
