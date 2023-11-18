@@ -10,16 +10,16 @@ import sqlite3
 # Configurações do servidor SMTP da Hostinger
 smtp_host = 'smtp-relay.brevo.com'
 smtp_port = 465
-smtp_username = 'evolucaoit@gmail.com'
-smtp_password = 'LHNftYvsPOjK6m9k'
+smtp_username = 'emaildosmtp'
+smtp_password = 'senhadosmtp'
 
 # Configurações do e-mail
-sender_email = 'elias.andrade@evolucaoit.com.br'
+sender_email = 'seu email'
 #subject = 'Apresentação de serviços de T.I - Consultoria e Serviços relevantes para operação e continuidade dos negócios da sua empresa'
-subject = 'Desenvolvimento de website corporativo por 199 R$ entregue em até 7 dias - Apresentação de serviço e proposta comercial'
+subject = 'assunto'
 
 # Lê o corpo do e-mail a partir do arquivo HTML
-with open('templates//templatevendasitev3.html', 'r', encoding='utf-8') as file:
+with open('coloque aqui seu template.html', 'r', encoding='utf-8') as file:
     html_body = file.read()
 
 def extract_emails_from_file(file_path):
