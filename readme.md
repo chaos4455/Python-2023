@@ -35,21 +35,26 @@ Estou ativamente buscando investimentos reais para expandir esses projetos em so
 
 Atualmente, estou aberto a parcerias e colaborações para desenvolver sistemas e plataformas tanto para o mercado nacional quanto global. Se você está interessado em fazer parte dessa jornada, contribuir para o crescimento desses projetos e explorar oportunidades de negócios, ficarei feliz em discutir mais detalhes.
 
+
+
 **Elias Andrade**
+
+
+
 
 [<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/chaos4455/HTML-Projects/main/img/profile.png" width="70%" />](https://www.linkedin.com/in/itilmgf)
 
+
+
 ## 📧 Contato
+
+
 
 Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: elias.andrade@evolucaoit.com.br
 
 
 **Disclaimer:**
 Este repositório é mantido por Elias Andrade sob a licença da Replika Sistemas e ESA Digital, em parceria com a Plataforma Ventures. As aplicações e projetos aqui apresentados são parte de uma iniciativa em constante evolução, com o objetivo de criar soluções tecnológicas inovadoras para o mercado nacional e global.
-
-
-
-
 
 
 ---
