@@ -38,17 +38,17 @@ Este projeto consiste em vários scripts Python que desempenham funções espec�
 Processar Listas de Envios:
 
 bash
-Copy code
+
 python disparalistaenvios.py
 Processar Listas de E-mails Extras:
 
 bash
-Copy code
+
 python processalistaemailextra.py
 Fazer Backup do Projeto:
 
 bash
-Copy code
+
 python criabackupprojeto.py
 Lembre-se de configurar suas chaves SMTP no arquivo chaves_smtp_brevo.txt para garantir o correto funcionamento do envio de e-mails.
 
