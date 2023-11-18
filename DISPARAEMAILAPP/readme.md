@@ -1,6 +1,6 @@
 # Disparador de E-mails em Massa
 
-Bem-vindo ao projeto de Disparador de E-mails em Massa! Este aplicativo Python foi desenvolvido para processar listas de e-mails e realizar envios em larga escala de forma eficiente.
+Bem-vindo ao projeto de Disparador de E-mails em Massa! Este aplicativo Python foi desenvolvido originalmente por mim  para processar listas de e-mails e realizar envios em larga escala de forma eficiente.
 
 ![:-)](https://raw.githubusercontent.com/chaos4455/Python-2023/main/DISPARAEMAILAPP/art.jpeg)
 
