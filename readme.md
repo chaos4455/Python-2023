@@ -15,8 +15,6 @@ Meu principal objetivo é aplicar minha experiência em Python para desenvolver 
 ### [Disparador de E-mail em Massa]([https://chaos4455.github.io/Python-Projects/DISPARAEMAILAPP](https://github.com/chaos4455/Python-2023/tree/main/DISPARAEMAILAPP))
 Um aplicativo Python para disparar e-mails em massa, processando listas de e-mails via SMTP. Este projeto é ideal para campanhas de marketing por e-mail e comunicações em larga escala. Confira o README específico para este projeto para obter detalhes de implementação e uso.
 
-(Aqui, você pode adicionar links e descrições para outros projetos Python que você incluirá no futuro.)
-
 ## Como Contribuir
 
 Se você estiver interessado em contribuir ou fornecer feedback, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua colaboração é bem-vinda!
