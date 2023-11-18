@@ -2,6 +2,9 @@
 
 Bem-vindo ao projeto de Disparador de E-mails em Massa! Este aplicativo Python foi desenvolvido para processar listas de e-mails e realizar envios em larga escala de forma eficiente.
 
+![:-)](https://raw.githubusercontent.com/chaos4455/Python-2023/main/DISPARAEMAILAPP/art.jpeg)
+
+
 ## Sobre o Projeto
 
 Este projeto consiste em vários scripts Python que desempenham funções específicas para o disparo de e-mails em massa.
