@@ -1,5 +1,6 @@
 #Este arquivo na verdade cria o banco de controle de envios
-#O nome correto deste arquivo é criabancoregistrodeenvio.py
+#Confirmar se esse arquivo não é uma duplicata de versão desatualizada. 
+
 
 import sqlite3
 import os
