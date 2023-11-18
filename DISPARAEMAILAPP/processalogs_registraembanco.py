@@ -1,7 +1,6 @@
 #esse arquivo processa jsons na pasta log e alimenta o banco de controle de envio na tabela logs json e tabela envios para que o disparador nao envie spam no caso por padrão 7 dias, etc.
 #Este arquivo deve ser processado diariamente toda vez que for feito envios para que atualize os bancos - 
-
-
+#Este arquivo deve ser usado manualmente após a cada envio para registrar os emails no banco até reparar a função no disparador.
 import os
 import json
 import sqlite3
