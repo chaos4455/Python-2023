@@ -25,9 +25,25 @@ Um aplicativo Python para disparar e-mails em massa, processando listas de e-mai
 
 Se você estiver interessado em contribuir ou fornecer feedback, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua colaboração é bem-vinda!
 
-## 📬 Contato
+## 🚀 Próximos Projetos
 
-- **LinkedIn:** [Elias Andrade](link-para-linkedin)
-- **Email:** elias.andrade@evolucaoit.com.br
+Fique atento para mais projetos emocionantes que serão adicionados a este repositório em breve!
 
-Obrigado por explorar meu portfólio de projetos Python! Estou ansioso para colaborar e aprender mais nessa jornada emocionante.
+## 🤝 Colaboração e Investimento
+
+Estou ativamente buscando investimentos reais para expandir esses projetos em soluções robustas e inovadoras. Tenho aplicações concretas com toda a documentação técnica e de negócios prontas para serem compartilhadas com potenciais investidores.
+
+Atualmente, estou aberto a parcerias e colaborações para desenvolver sistemas e plataformas tanto para o mercado nacional quanto global. Se você está interessado em fazer parte dessa jornada, contribuir para o crescimento desses projetos e explorar oportunidades de negócios, ficarei feliz em discutir mais detalhes.
+
+**Elias Andrade**
+
+[<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/chaos4455/HTML-Projects/main/img/profile.png" width="70%" />](https://www.linkedin.com/in/itilmgf)
+
+## 📧 Contato
+
+Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: elias.andrade@evolucaoit.com.br
+
+---
+
+**Disclaimer:**
+Este repositório é mantido por Elias Andrade sob a licença da Replika Sistemas e ESA Digital, em parceria com a Plataforma Ventures. As aplicações e projetos aqui apresentados são parte de uma iniciativa em constante evolução, com o objetivo de criar soluções tecnológicas inovadoras para o mercado nacional e global.
