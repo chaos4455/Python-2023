@@ -15,7 +15,6 @@ smtp_password = 'senhadosmtp'
 
 # Configurações do e-mail
 sender_email = 'seu email'
-#subject = 'Apresentação de serviços de T.I - Consultoria e Serviços relevantes para operação e continuidade dos negócios da sua empresa'
 subject = 'assunto'
 
 # Lê o corpo do e-mail a partir do arquivo HTML
