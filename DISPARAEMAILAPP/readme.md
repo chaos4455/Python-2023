@@ -36,21 +36,20 @@ Este projeto consiste em vários scripts Python que desempenham funções espec�
 ## Como Usar
 
 1. **Criar Banco de Dados:**
-   ```bash
+
    python criabancodecontroleenvio.py
 Processar Listas de Envios:
 
-bash
 
 python disparalistaenvios.py
 Processar Listas de E-mails Extras:
 
-bash
+
 
 python processalistaemailextra.py
 Fazer Backup do Projeto:
 
-bash
+
 
 python criabackupprojeto.py
 Lembre-se de configurar suas chaves SMTP no arquivo chaves_smtp_brevo.txt para garantir o correto funcionamento do envio de e-mails.
