@@ -7,8 +7,8 @@ import json
 # Configurações do servidor SMTP da Hostinger
 smtp_host = 'smtp.hostinger.com'
 smtp_port = 465
-smtp_username = 'elias.andrade@evolucaoit.com.br'
-smtp_password = 'Femsa@2018'
+smtp_username = 'login'
+smtp_password = 'Senha'
 
 # Configurações do e-mail
 sender_email = 'elias.andrade@evolucaoit.com.br'
